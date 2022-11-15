@@ -6,8 +6,8 @@ body {
   min-height: 100vh;
 }
 .carousel {
-  width: 80vw;
-  height: 600px;
+  width: 80%;
+  height: 500px;
   border-radius: 3px;
   overflow: hidden;
   position: relative;
