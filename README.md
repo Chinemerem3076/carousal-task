@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Github Repo URL: (https://your-solution-url.com)
-- Github page URL: (https://your-live-site-url.com)
+- Github Repo URL: (https://github.com/Chinemerem3076)
+- Github page URL: (https://chinemerem3076.github.io/carousal-task/)
 
 ## My process
 
